@@ -1,3 +1,5 @@
+https://github-profile-trophy.vercel.app/?username=HimeshPremji&theme=onedark
+
 # 👋 Hi there, I'm Himesh Premji!  
 
 ## 🚀 About Me  
@@ -29,4 +31,4 @@ He/Him
 I love solving complex problems, and debugging is my superpower! 🚀  
 
 ---  
-📌 *This README was written with by ChatGPT.*  
+📌 *This README was written by ChatGPT.*  
