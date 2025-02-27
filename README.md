@@ -4,10 +4,10 @@
 I’m a passionate **Full Stack Developer** who loves building scalable and efficient web applications. Currently, I’m deep-diving into **backend development** with **Express.js** and **MongoDB** to strengthen my skills in building robust APIs and databases.  
 
 ## 🔥 Tech Stack  
-- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind, JavaScript  
+- **Frontend:** HTML, CSS, Tailwind, JavaScript  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, PostgreSQL, Firebase  
-- **Tools & Others:** Git, GitHub, Docker, Postman  
+- **Database:** MongoDB 
+- **Tools & Others:** Git, GitHub, Postman  
 
 ## 🌱 Currently Learning  
 - Advanced **backend architectures** and **database optimization**  
@@ -29,4 +29,4 @@ He/Him
 I love solving complex problems, and debugging is my superpower! 🚀  
 
 ---  
-📌 *This README was written with the help of ChatGPT.*  
+📌 *This README was written with by ChatGPT.*  
