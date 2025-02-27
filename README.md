@@ -20,7 +20,7 @@ I’m a passionate **Full Stack Developer** who loves building scalable and effi
 
 ## 📫 How to Reach Me  
 📧 **Email:** [himeshdmaheswary@gmail.com](mailto:himeshdmaheswary@gmail.com)  
-📄 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/himeshdmaheswary2122/)  
+📄 **LinkedIn:** [Himesh D. Maheswary](https://www.linkedin.com/in/himeshdmaheswary2122/)  
 
 ## 😄 Pronouns  
 He/Him  
