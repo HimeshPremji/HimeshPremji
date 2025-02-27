@@ -1,5 +1,5 @@
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=HimeshPremji)
+![trophy](https://github-profile-trophy.vercel.app/?username=HimeshPremji&theme=onedark)
 
 # 👋 Hi there, I'm Himesh Premji!  
 
